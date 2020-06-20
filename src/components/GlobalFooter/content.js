@@ -7,11 +7,11 @@ export default {
         'url': '/'
       },
       {
-        'name': 'How It Works',
+        'name': 'Como Funciona',
         'url': '/how-it-works/'
       },
       {
-        'name': 'Press Kit',
+        'name': 'Ala da Imprensa',
         'url': '/press-kit/'
       },
       {
@@ -19,11 +19,11 @@ export default {
         'url': '/safecoin/'
       },
       {
-        'name': 'Get Involved',
+        'name': 'Faça Parte',
         'url': '/get-involved/'
       },
       {
-        'name': 'FAQs',
+        'name': 'FAQ´s',
         'url': '/faq/'
       },
       {
@@ -31,30 +31,30 @@ export default {
         'url': 'https://medium.com/safenetwork'
       },
       {
-        'name': 'Roadmap',
+        'name': 'Mapa do Projeto',
         'url': '/roadmap/'
       },
       {
-        'name': 'Events',
+        'name': 'Eventos',
         'url': 'https://safenetforum.org/t/safe-network-upcoming-events/29029'
       }
     ]
   },
   'community': {
-    'name': 'Community',
+    'name': 'Comunidade',
     'links': [
       {
-        'name': 'SAFE Network Forum',
+        'name': 'SAFE Network Fórum',
         'url': 'https://safenetforum.org/'
       },
       {
-        'name': 'Developer Forum',
+        'name': 'Fórum De Desenvolvedores',
         'url': 'https://forum.safedev.org/'
       }
     ]
   },
   'company': {
-    'name': 'Company',
+    'name': 'Empresa',
     'links': [
       {
         'name': 'About MaidSafe',
@@ -65,20 +65,20 @@ export default {
         'url': 'https://maidsafe.net/'
       },
       {
-        'name': 'Contact',
+        'name': 'Contato',
         'url': 'https://maidsafe.net/contact'
       },
       {
-        'name': 'Careers',
+        'name': 'Carreira',
         'url': 'https://maidsafe.net/careers'
       }
     ]
   },
   'developers': {
-    'name': 'Developers',
+    'name': 'Desenvolvedores',
     'links': [
       {
-        'name': 'Developer Hub',
+        'name': 'Desenvolvedores Hub',
         'url': 'https://hub.safedev.org/'
       },
       {
@@ -88,18 +88,18 @@ export default {
     ]
   },
   'legal': {
-    'name': 'Legal',
+    'name': 'Jurídico',
     'links': [
       {
-        'name': 'Privacy Policy',
+        'name': 'Política de Privacidade',
         'url': '/privacy'
       },
       {
-        'name': 'Cookie Policy',
+        'name': 'Política de Cookies',
         'url': '/cookies'
       },
       {
-        'name': 'Credits',
+        'name': 'Créditos',
         'url': 'https://maidsafe.net/credits'
       }
     ]
