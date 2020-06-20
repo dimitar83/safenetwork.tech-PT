@@ -1,130 +1,130 @@
 export default {
   banner: {
-    title: `We're Building The \nNew Internet`,
-    desc: '[Freedom](/#freedom) of expression, [control](/#control) of personal data, [private and secure](/#privacy) communications; and a whole new [economy](/#economy). Welcome to the SAFE Network.',
+    title: `Estamos construindo A \nNova Internet`,
+    desc: '[Liberdade](/#freedom) de expressão, dados pessoais sob seu [controle](/#control), comunicação [privada e segura](/#privacy);  e uma [economia](/#economy) totalmente nova. Bem-vindo à SAFE Network.',
     aside: {
-      para: 'Using spare bandwidth and unused disk space on home computers and phones, we’re taking the web off corporate servers, out of government control, and back into the hands of people.',
+      para: 'Com o uso do excedente da conexão e espaço não utilizado nos HDs de computadores e smartphones levamos a rede web para além dos servidores das grandes corporações, fora do controle de governos e de volta às mãos das pessoas comuns.',
       CTA: {
-        name: 'See how it works',
+        name: 'Veja como tudo funciona',
         url: '/how-it-works/'
       }
     },
   },
   freedom: {
-    title: 'Decentralised & Autonomous: \nFreedom of expression by design.',
+    title: 'Decentralizada e Autônoma: \nLiberdade de expressão desde a concepção.',
     para: [
-      'Everyone should be able to collaborate freely and share ideas; free and unrestricted access to information for everyone around the world.',
-      'That’s why we’ve designed a system like no other: An autonomous network that runs itself, distributed across the globe, that can’t be shut down, controlled, or censored.'
+      'Todos devem poder colaborar livremente e compartilhar ideias; acesso livre e irrestrito à informação para todos ao redor do mundo.',
+      'Por isso projetamos um sistema como nenhum outro: Uma rede autônoma de autogerenciamento, distribuída por todo planeta, que não pode ser fechada, controlada ou censurada.'
     ],
     CTA: {
-      name: 'What is an Autonomous Network?',
+      name: 'O que é uma rede autônoma?',
       url: '/faq/#what-is-an-autonomous-network'
     },
     founderQuote: {
-      para: `"Fixing the Internet isn't optional, and now there's a solution we can all be part of."`,
-      by: 'David Irvine — Founder'
+      para: `"Consertar a internet não é uma questão de opção, agora há a solução e todos podemos fazer parte dela."`,
+      by: 'David Irvine — Fundador'
     },
     aside1: {
-      title: 'All information is equal',
-      para: 'All data on the network is treated the same, and everyone has equal and free access.  Net neutrality comes as standard.'
+      title: 'Toda informação é igualitária',
+      para: 'Todo tipo de informação na rede é tratada de forma igual e todos têm acesso livre por igual. Surge o padrão da Net da Neutralidade.'
     },
     aside2: {
-      title: 'Can’t be censored or shut down',
-      para: 'Because it’s autonomous, the SAFE Network can’t be turned off, blocked or controlled. It belongs to humanity.'
+      title: 'Não pode ser censurada ou fechada.',
+      para: 'Por ser autônoma, a SAFE Network não pode ser desligada, bloqueada nem controlada. Ela pertence a humanidade.'
     }
   },
   privacy: {
-    title: 'Total Privacy, Absolute Security.',
+    title: 'Privacidade Total, Segurança Total.',
     para: [
-      'Privacy and security should be available to everyone, not just those with deep pockets.',
-      'That’s why the SAFE Network encrypts all data by default, automatically splitting it into many pieces which constantly move to locations around the globe that cannot be traced. And your access to them is untraceable too.',
-      ' No more hacked data, no more stolen passwords, no more eavesdropping. Private. Secure. Anonymous.'
+      'Privacidade e segurança deveriam ser disponíveis a todos, não apenas para os que têm contas bancárias gordas.',
+      'Por isso que a SAFE Network, por padrão, criptografa todos os dados, automaticamente fragmenta e os mudam constantemente entre os muitos HDs ao redor do mundo impedindo-os de serem rastreados, consequentemente também não se poderá monitorar seu acesso à rede.',
+      ' É o fim dos dados hackeados, o fim de senhas roubadas e adeus aos bisbilhoteiros. Informação Privada, Segura e Anônima.'
     ],
     CTA: {
-      name: 'How does it work?',
+      name: 'Como ela funciona?',
       url: '/how-it-works/'
     },
     quote: {
-      para: 'When we’re given the tools to communicate privately and securely we gain the freedom to collaborate and innovate all as one.'
+      para: 'Quando nos é dado as ferramentas de comunicação privada e segura ganhamos a liberdade para colaborarmos e inovarmos como se fôssemos um.'
     },
     aside1: {
-      title: 'Browse and access anonymously',
-      para: 'On the SAFE Network, you are free to browse and download completely anonymously, from anywhere in the world. No account necessary.'
+      title: 'Navegue e acesse anonimamente',
+      para: 'Na SAFE Network, você é livre para navegar e fazer downloads livremente de onde você estiver no mundo. Não é necessário haver um conta.'
     }
   },
   data: {
-    title: 'Complete Control of Your Data',
+    title: 'Controle completo sobre seus próprios dados',
     para: [
-      'The SAFE Network turns the current data ownership model on its head.',
-      'Gone are the days of your personal information being stored on corporate servers. Self Authentication means you are in complete control over your data: it resides with you. Grant permission for apps to connect to it, and no company or third party ever has access. ',
+      'A SAFE Network vira de cabeça para baixo o conceito de propriedade de dados ainda vigente.',
+      'Já é passado o tempo em que suas informações pessoais ficavam estocadas em servidores de grandes corporações. A Auto Autenticação – Self Authentication – garante seu domínio completo sobre seus próprios dados: eles são permanentemente seus. Você pode permitir apps conectarem-se a eles, mas nenhuma companhia ou terceiros poderão obtê-los. ',
     ],
     CTA: {
-      name: 'Read more about Self Authentication',
+      name: 'Leia mais sobre Auto Authenticação',
       url: 'faq/#what-is-self-authentication'
     },
     aside1: {
-      title: 'Pay Once, Store Forever',
+      title: 'Pague apenas uma vez e guarde para sempre',
       para: [
-        'Upload your data and have it stored securely forever. Get free unrestricted access from any connected device around the world.',
-        'You’ll pay a minimal, one-time, upload charge but you’ll get permanent secure backups with no more monthly fees.'
+        'Faça o upload de seus dados e os tenha guardados de forma segura para sempre. Obtenha acesso irrestrito a partir de qualquer aparelho conectado onde você estiver no mundo.',
+        'Taxa mínima, única, para fazer seu upload com backups permanentes e seguros sem taxas mensais.'
       ]
     },
     aside2: {
-      title: 'One Password. For real this time.',
+      title: 'Apenas uma senha.',
       para: [
-        'All apps are securely accessed from the single password used to create your account. Say goodbye to that password manager.',
+        'Todos os apps são acessados de forma segura a partir de uma única senha usada para criar a sua conta. Diga adeus a aquele gerenciador de senhas.',
       ]
     },
     aside3: {
-      title: 'Data Portability',
+      title: 'Portabilidade de dados',
       para: [
-        'Being in complete control means you can quickly and easily move your data between apps and services. Mix and match to meet your needs, and leave no data behind.',
+        'Ter controle total significa que você pode rapidamente e facilmente mover seus dados entre aplicativos e serviços. Você pode misturar e combiná-los de acordo com suas necessidades e, o melhor de tudo, não deixar rastros.',
       ]
     },
     aside4: {
-      title: 'Dude, where’s my blockchain?',
+      title: 'E onde fica o Blockchain?',
       para: [
-        'No blockchain means endless scalability and instant transactions at network speed. Exactly what a global data network needs.',
+        'Por não haver blockchain haverá, portanto, escalabilidade infinita e transações instantâneas na velocidade da rede. É exatamente o que uma rede de dados global precisa.',
       ],
       CTA: {
-        name: 'Read more about the design',
+        name: 'Leia mais sobre o Projeto',
         url: '/how-it-works/'
       }
     },
   },
   economy: {
-    title: 'The New Digital Economy',
+    title: 'A Nova Economia Digital',
     para: [
-      'Welcome to the new economy where you no longer pay for your digital life with your personal data.  Instead, you’ll use Safecoin, a crypto currency that is integrated into and distributed entirely by the network.',
-      'Users are compensated for providing their resources and can use this to pay developers to use their apps in a virtuous and self sustaining cycle.',
-      'SAFE is a network where wealth is shared based on the value that everyone provides.'
+      'Bem-vindo à nova economia onde não há mais a necessidade de pagar por sua vida digital com seus dados pessoais. Você usará a Safecoin, uma criptomoeda que é integrada e distribuída inteiramente pela rede.',
+      'O usuários são recompensados com Safecoin por disponibilizarem seus recursos e podem usá-la para pagar os desenvolvedores que usarão seus aplicativos em um ciclo virtuoso e de auto sustentabilidade.',
+      'SAFE é uma rede onde a riqueza é compartilhada baseada nos valores que cada um oferece.'
     ],
     CTA: {
-      name: 'Read more about Safecoin',
+      name: 'Leia mais sobre Safecoin',
       url: '/safecoin/'
     },
     aside1: {
-      title: 'Always Free to Access',
+      title: 'Sempre grátis para acessar',
       para: [
-        'Information is always free to access. You’ll never be charged for browsing or downloading. The SAFE Network guarantees equal access to data for everyone. You don’t even need an account, just download the browser.',
+        'Informação é sempre grátis para acessar. Você nunca será cobrado para navegar ou fazer download. A SAFE Network garante acesso igualitário a dados para todos. Você nem mesmo precisa ter uma conta, simplesmente faça o download do Navegador.',
       ]
     },
     aside2: {
-      title: 'The Perfect Market',
+      title: 'O Mercado Perfeito',
       para: [
-        'As there is no human interaction, the Network autonomously creates a perfect market.  Prices are set continually dependent on available resources and user demand.',
+        'Como não há interação humana, a rede autônoma cria o mercado perfeito. O preços são continuamente atualizados dependendo da disponibilidade de recursos e demanda por parte dos usuários.',
       ]
     },
     aside3: {
-      title: 'No Infrastructure Costs',
+      title: 'Não há custo de infraestrutura',
       para: [
-        'Without fixed infrastructure costs, each additional member of the network increases the utility and speed for everyone else. And the system rewards popular apps and websites with payments directly.',
+        'Sem custos fixos de estrutura, cada novo membro da rede aumenta a utilidade e a velocidade para todos os demais. O sistema recompensa os aplicativos e websites populares com pagamentos diretos.',
       ]
     },
     aside4: {
-      title: 'Contribute Resources, Get Paid.',
+      title: 'Seja pago para contribuir com recursos.',
       para: [
-        'By running a Vault, you can offer the network your unused resources—like hard drive space and bandwidth—and automatically be rewarded with Safecoin.',
+        'Ao instalar um cofre – Vault – em seu HD, você poderá oferecer à rede seu recurso não utilizado – como espaço no HD ou banda de conexão – e será recompensado com Safecoin.',
       ]
     },
   }
