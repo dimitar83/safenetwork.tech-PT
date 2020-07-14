@@ -1,110 +1,110 @@
 export default {
   banner: {
-    title: 'Autonomous, Decentralised, Encrypted.',
+    title: 'Autônoma, Descentralizada, Criptografada.',
     aside: {
-      para: 'Powered by the spare capacity of everyday computers, SAFE replaces the vulnerable structure of the existing Web with a decentralised, autonomous network. One that is secure, and accessible to everyone.',
+      para: 'Impulsionada pela capacidade excedente que simples computadores possuem, a SAFE substitui a estrutura da Web atual pela rede descentralizada e autônoma. Uma rede segura e acessível a todos.',
       CTA: {
-        name: `Here's how it works`,
+        name: `Entenda como funciona`,
         url: '/faq/#what-is-a-vault'
       }
     },
   },
   topics: [
     {
-      name: 'Introduction',
+      name: 'Introdução',
       desc: [
         {
-          title: 'Getting to grips with the SAFE Network',
+          title: 'Conheça o mecanismo da SAFE Network',
           para: [
-            'If you don’t understand what a new decentralised web might mean, you’re far from alone. But once the benefits of a new web built on the SAFE Network become clear—permanent data, never again stored by untrustworthy and hackable third parties that you alone can access at any time from anywhere around the globe—the value becomes clearer. There’s a huge amount of work required to build a system that can deliver on such promises. So to get you started, here’s a few pointers about some of the technology that lies under the hood.'
+            'Para aqueles não talvez não saibam o que uma nova internet descentralizada significa, saiba que você não está só. Mas assim que os benefícios de uma nova internet construída na SAFENetwork ficarem aparentes, informação permanente nunca mais será guardada em locais de terceiros não confiáveis ou hackeáveis, e apenas você poderá acessá-la a qualquer tempo e de onde estiver no mundo, o valor inestimável ficará perceptível. Há uma enorme quantidade de esforço exigido para se construir um sistema que possa entregar tais promessas. E para inicia-lo, aqui estão alguns apontadores sobre como é essa tecnologia por deixa do capô.'
           ]
         }
       ]
     }, {
-      name: 'Browsing',
+      name: 'Navegação',
       desc: [
         {
-          title: 'All human knowledge, available to all humanity',
+          title: 'Todo conhecimento humano disponível para toda humanidade',
           para: [
-            `Perhaps you only want to view content on the Network. For many, that may seem no different to the Web today. But for the 1.5 billion people around the world blocked from sites like Wikipedia, it's a giant leap forward. And all they need to do is download the SAFE browser—the gateway to the new Web—accessible by anyone, anywhere.`,
-            'Browsing SAFE is private, anonymous, and secure—free from tracking by corporate or government interests. The choices you make are yours alone. No more having The Invisible Other looking over your shoulder.'
+            `Talvez você queira apenas ver conteúdos na internet. Para muitos talvez não parecerá diferente da internet de hoje. Mas para os 1.5 bilhões de pessoas ao redor do planeta que são proibidos de acessarem sites como o Wikipedia, é um passo gigante para seu avanço. Tudo que eles precisam fazer é o download do navegador, o SAFE BROWSER – o portal para uma nova Internet – acessível a todas pessoas e a todos lugares.`,
+            'Navegar na SAFE é algo privado ao usuário, anônimo e seguro, livre de monitoramento feito pelo interessa de empresas e governos. As decisões que você fizer serão apenas suas. Não mais existirá o hacker invisível observando seus passos.'
           ]
         }
       ],
       aside: {
         position: 1,
-        para: 'Want to try the SAFE Network, and help build the future of the Internet?',
+        para: 'Deseja experimentar a SAFE Network e ajudar a construir o future da Internet?',
         CTA: {
-          name: 'Get Involved',
+          name: 'Envolva-se',
           url: '/get-involved/'
         }
       }
     }, {
-      name: 'Storing Data',
+      name: 'Armazenagem De Dados',
       desc: [
         {
-          title: 'Pay once, securely store forever',
+          title: 'Taxa única, armazenagem segura para sempre',
           para: [
-            `You're likely to want to store data on the Network. Why? Because in return for a very small one-time Safecoin payment, your data will then be stored forever, encrypted and accessible anywhere in the world and only by you—unless you choose to share it.`
+            `Você certamente decidirar estocar dados na SAFE Network. Por quê? Por que em compensação a uma pequena quantia, única, paga em Safecoin, os seus dados ficarão guardados para sempre, criptografados e acessíveis em qualquer parte do mundo e apenas para você – a menos que você decidade compartilhá-los.`
           ],
-          quote: `"Your credentials can't be stolen, because at no point are they ever stored on the Network"`
+          quote: `“A suas credenciais nunca podem ser roubadas por que elas nunca serão estocadas na rede.”`
         }, {
-          para: `The Network is permissionless. That means you don't need to apply to a third party to take part—and, crucially, no-one can stop you. This happens  because the SAFE Network has Self-Authentication. It's the only decentralised Network in the world that lets someone securely and anonymously create an account and log in without needing a third party to manage the login process or to store and manage users' credentials. That means your credentials can't be stolen, because at no point are they ever stored on the Network itself.`
+          para: `A rede segue o protocolo de não-permissão. Isso significa que não há necessidade de se registrar à terceiros para fazer parte dela, e o crucial é que ninguém pode impedi-lo. Isso acontece por que a SAFENetwork possui auto autenticação, Self-Atuthentication. É a única rede descentralizada do mundo que permite alguém de forma segura e anônima criar uma conta, logar-se, sem a necessidade de terceiros para gerenciar seu processo de acesso ou de estocagem e gerenciamento de credenciais. Com isso usas credenciais não podem ser roubadas, por que ela nunca são armazenadas na rede.`
         }, {
-          title: 'Keeping your data private',
+          title: 'Mantenha seus dados privados',
           para: [
-            `Next, let's talk encryption. Imagine you want to store a photo. That data is protected by a number of layers of encryption. Your photo starts by being broken into pieces which are then encrypted with the other parts of that same file. This 'Self-Encryption' happens before the data ever hits the Network. So, unless you choose to override it, none of your data touches the Network unless it is encrypted. And it’s designed so that you're the only one that ever holds the key.`,
-            `This is a very different approach to blockchain-based storage platforms which often secure just the pointer that shows where the data is stored. With data stored elsewhere, you can prove that data hasn’t been tampered with. But it doesn't protect the data itself. The SAFE Network has a different approach altogether. The data itself is encrypted and stored on the Network. That means no data stores to protect elsewhere.`
+            `Agora falaremos sobre criptografia. Imagine você querer guardar uma foto. Esse dado é protegido por uma número de camadas de criptografia. A sua foto é primeiramente partida em muitos pedaços, que são criptografados juntamente com as outras partes do mesmo arquivo. Essa auto criptografia acontece antes do arquivo chegar a rede. Então, a menos que se escolha apaga-la, nenhuma parte dos seus dados entram na rede sem ser criptografado antes. Tudo foi projetado para que apenas você tenha a chave para descriptografar seus conteúdos.`,
+            `Eis uma abordagem completamente diferente das plataformas baseadas em blockchain que normalmente apenas criptografa o arquivo indicador que leva ao dado estocado. Tendo seus dados alocados em outro local, pode se provar que os dados não foram alterados, mesmo assim não há garantia da proteção desses mesmos dados. A SAFE Network tem uma abordagem totalmente diferente. Todos os dados em si são criptografados e armazenados na rede. Isso significa que não há dados a serem protegidos em nenhum outro local além da rede.`
           ]
         }
       ],
     }, {
-      name: 'Where Is Data Stored?',
+      name: 'Onde Os Dados São Armazenados?',
       desc: [
         {
-          title: 'Behold, The Serverless Internet',
+          title: 'Eis Que Surge A Internet Sem Servidores',
           para: [
-            'The Web is fragile today partly because data is stored in central locations. These become targets for hackers, thieves and data harvesters, or anyone else who wants to snoop around your personal data.',
-            'The SAFE Network doesn’t have these centralised servers. It has no single point which can be attacked, hacked or snooped upon. All uploaded data is broken into chunks, encrypted, dispersed across the Network, and continually moved between computers.',
-            'So how could an attacker search for your photo?  Without reading them, he’d have to know  which encrypted chunks made up any one file; where each piece was stored; control a number of computers that has responsibility for managing each of those different locations on the Network at any one point in time; and then somehow break the encryption (with no password!).',
-            `And that's a simplification. It's actually much harder than that. But that gives you a feel for just how secure data is on the SAFE Network. Once you take on board that it's the Network itself that makes decisions autonomously about locations and who does what, the challenge facing any attacker becomes even clearer.`
+            'A Internet é frágil hoje em dia parcialmente por que os dados são arquivados em locações centrais. Essas centrais se tornam alvos para hackers, aproveitadores e ladrões de dados, ou qualquer um que queira bisbilhotar seus dados pessoais.',
+            'A SAFE Network não tem esses servidores centralizados. Não há um único ponto que possa ser atacado, hackeado ou bisbilhotado. Todo arquivo inserido na rede é quebrado em pequenas partes, criptografados e distribuídos dentro do sistema, além de migrarem continuamente de computador para computador.',
+            'E como um ataque pode ter acesso à sua foto? Sem a possibilidade de ler os arquivos, ele teria que saber qual parte critptografada compõe a sua foto, onde cada pedaço está alocado, controlar o número de computadores que tem a responsabilidade de gerenciar cada um dos diferentes locais da rede e em determinada hora e de alguma maneira quebrar a criptografia sem senha.',
+            `Essa foi a versão simplificada. É na verdade muito mais complicado que isso. Mas já dá uma perspectiva de o quanto os dados na SAFE Network ficam seguros. Quando se percebe que é a rede SAFE mesmo que toma as decisões autonomamente sobre as locações e quem faz o que, o desafio hercúleo para qualquer um que queria fazer ataques fica evidente.`
           ]
         }
       ],
       aside: {
         position: 3,
-        title: 'When will it be finished?',
-        para: 'We’re at the dawn of a new Web, and the final pieces of the SAFE Network are being put in place.',
+        title: 'Quando ela estará pronta?',
+        para: 'Estamos na aurora de uma nova Internet e as partes finais da SAFENetwork estão sendo acoplados nesse minuto.',
         CTA: {
-          name: 'See the Roadmap',
+          name: 'Veja o Mapa do Projeto',
           url: '/roadmap/'
         }
       }
     }, {
-      name: 'Who Stores Your Data?',
+      name: 'Quem Armazena Seus Dados?',
       desc: [
         {
-          title: 'The Web hosted by everyone, controlled by no-one',
+          title: 'A Rede é mantida por todos e controlada por ninguém',
           para: [
-            'With no centralised storage, data is instead stored in Vaults. People download free Vault software to their home computers which tells the Network that they’re happy to take part. By providing storage and bandwidth to support the Network, you can get rewarded in Safecoin, the cryptocurrency that powers the Network.',
-            'The Network just makes use of the space you’ve offered and asks you to manage whichever chunks of encrypted data it needs to ensure the system is safe and resilient. The key point here is that no-one (either computers or Network) can read this data. Each chunk of encrypted data is managed by its own Group. The Network decides which computers should be members of which Groups and this changes frequently. And at no time can a person who runs a Vault read any of the data that his computer is storing.',
-            'By running a Vault, your computer races to return any data that is requested by its owner. The rewards paid out by the system will be varied according the Network which varies the price of Safecoin in order to balance the Network in such a way that it consistently maintains around 30% of Vaults unused.'
+            'Sem arquivamento centralizado, os dados são guardados em COFRES – Vaults. As pessoas fazem o download grátis do programa Vault em seus computadores pessoais que se ligam a rede informando seu contentamento de voluntariamente fazer parte do sistema. Ao prover capacidade de armazenagem e banda de internet para ampliar a rede, o usuário poderá receber Safecoin como recompensa, a criptomoeda que impulsiona toda a Network.',
+            'A SAFE Network apenas faz uso do espaço oferecido e pede que seu computador gerencie porções aleatórias de dados criptografados necessários para manter o sistema seguro e resiliente. O cerne da questão é que ninguém (nem computadores nem a SAFE Network) consegue ler qualquer dado. Cada pedaço de arquivo criptografado é gerenciado apenas pelo seu próprio Grupo. A rede decide qual computador deve ser membro de qual Grupo e isso muda com frequência. Em tempo algum o dono de um Vault consegue ler o que há estocado em seu computador.',
+            'Depois de instalado um cofre, Vault, seu computador agilmente enviará qualquer porção de arquivos requisitado pelo dono. O valor pago pelo sistema varia de acordo com a variação do preço da Safecoin, mantendo o equilíbrio da rede de modo que seja consistente manter cerca de 30% dos Vaults ainda não ultilizados.'
           ]
         }
       ]
     }, {
-      name: 'Network Architecture',
+      name: 'Arquitetura da Rede',
       desc: [
         {
-          title: 'Anatomy of an Autonomous Network',
+          title: 'Anatomia de um Rede Autônoma',
           para: [
-            'The SAFE Network is self-managing. It manages how computers can act on the Network in real-time, changing roles and responsibilities dynamically in response to real-time changes without any input from humans or businesses.',
-            'The Network is built on a foundation of open source software that allows computers to connect directly to each other, anywhere around the world. The Routing layer sits above this and sets the rules of the Network. This means that computers will act in a certain way that guarantees the Network will function efficiently without a centralised administrator.',
-            'These rules ensure that computers reach agreement on what is and isn’t allowed, and the order in which they happen. Decisions are made by computers in standalone Sections that have a history of good behaviour and thanks to a cutting-edge DAG-based consensus algorithm called PARSEC, the Network is guaranteed to reach agreement despite vast numbers of events taking place simultaneously every second around the world.'
+            'A SAFE Network é auto-gerenciável. Ela regula como os computadores devem agir dentro da rede em tempo real, mudando suas funções e responsabilidades dinamicamente em reação à mudanças em tempo real sem interferência de humanos ou empresas.',
+            'A estrutura é construída com base em programas de fonte aberta o que permite computadores a se conectarem entre si diretamente, em qualquer parte do mundo. A camada de roteamento, Routing, está encrustada nessa base e dita as regras para toda a rede. Isso significa que todos os computadores atuarão de maneira que garanta a funcionalidade eficiente da rede sem um administrador central.',
+            'Essas regras asseguram que o computadores da rede alcancem consenso sobre o que é ou não é permitido e a ordem em que cada um deve acontecer. A decisões são feitas pelos computadores das Seções StandAlone, seções isoladas, e que tenham histórico de bom comportamento e graças ao primoroso algoritmo de consenso de base DAG chamado PARSEC, a rede tem a garantia de haver consenso geral apesar do vasto número de eventos acontecendo simultaneamente a cada segundo em todo planeta.'
           ]
         }, {
-          title: 'Global Communication, Global Scale',
-          para: 'Whilst Sections stand alone, the Network is designed to enable trusted communications. It does this by ensuring that any contact between unknown computers is accompanied by cryptographic proof that every computer involved is a valid part of the Network. With Secure Message Relay comes Data Chains, a novel way which ensures that vast quantities of data can be passed reliably and securely between different nodes that have never known each other previously. All of this is made possible by the key design decision that we started with: all data is stored on the Network. Encrypted and ready to scale the globe from Day One.'
+          title: 'Comunicação Global, Escala Global',
+          para: 'Mesmo havendo seções isoladas, a rede foi desenhada para permitir comunicação confiável. Isso acontece por assegurar que qualquer contato entre computadores desconhecidos seja acompanhado de prova criptográfica de que cada computador envolvido faça parte da SAFENetwork. Por haver a Secure Message Relay – a transmissão de mensagens seguras – há também a Data Chain, encadeamento de dados, uma nova maneira de assegurar que vastas quantidades de dados possam ser enviados intactamente e de modo seguro entre as nodes, ou pontos de redireção, que nunca tenham se interligado antes. Tudo isso se torna possível pela decisão chave feita dentro do projeto desde o início que: todos os dados deverm ser armazenados na rede, criptografados e prontos para escala global a partir do DIA UM.'
         }
       ]
     }
